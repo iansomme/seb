@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Software Engineering</title>
-    <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/</link>
+    <link>https://software-engineering-book.com/videos/</link>
     <description>Recent content in Videos on Software Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 22 May 2020 12:36:09 +0100</lastBuildDate>
     
-	<atom:link href="https://software-engineering-bookhttps://software-engineering-book.com/videos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://software-engineering-book.com/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software engineering</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/se/</link>
+      <link>https://software-engineering-book.com/videos/se/</link>
       <pubDate>Sat, 23 May 2020 14:26:03 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/se/</guid>
+      <guid>https://software-engineering-book.com/videos/se/</guid>
       <description>These videos support the material in Chapters 1 and 2 in the 10th edition of Software Engineering. My videos are starred (*).
 Introducing Software Engineering Ten Questions about Software Engineering (*) In this video, I introduce software engineering by answering ten key questions about the discipline covering its nature and the differences between software engineering and other disciplines. Why Software Engineering Matters (*)
 In this video, I explain the economic and social importance of software engineering and how it is central to all economic and social developments in the 21st century.</description>
@@ -24,10 +24,10 @@ In this video, I explain the economic and social importance of software engineer
     
     <item>
       <title>Agile methods</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/agile/</link>
+      <link>https://software-engineering-book.com/videos/agile/</link>
       <pubDate>Sat, 23 May 2020 14:26:18 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/agile/</guid>
+      <guid>https://software-engineering-book.com/videos/agile/</guid>
       <description>These videos support the material in Chapter 3 in the 10th edition of Software Engineering. My videos are starred (*).
 Introducing agile development What is agile development (Part 1): What is Agile Development ;
 What is agile development (Part 2): An Agile Project Case Study ;
@@ -37,10 +37,10 @@ An excellent short video that discusses factors to be considered in deciding if 
     
     <item>
       <title>Requirements and design</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/req/</link>
+      <link>https://software-engineering-book.com/videos/req/</link>
       <pubDate>Sat, 23 May 2020 14:26:34 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/req/</guid>
+      <guid>https://software-engineering-book.com/videos/req/</guid>
       <description>These videos support the material in Chapters 4, 5, 6 and 17 in the 10th edition of Software Engineering. My videos are starred (*).
 Requirements engineering An introduction to requirements engineering (*)
 In this introductory video I explain what is meant by requirements and requirements engineering. What is a requirement?
@@ -49,10 +49,10 @@ This is the first of a series of short, clearly explained requirements engineeri
     
     <item>
       <title>Implementation and evolution</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/imp/</link>
+      <link>https://software-engineering-book.com/videos/imp/</link>
       <pubDate>Sat, 23 May 2020 14:26:41 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/imp/</guid>
+      <guid>https://software-engineering-book.com/videos/imp/</guid>
       <description>These videos support the material in Chapters 7, 8 and 9 in the 10th edition of Software Engineering. My videos are starred (*). .
 Object-oriented design and the UML UML 2.0 video tutorial (Derek Banas)
 This is the first of a set of video tutorials that introduce the UML 2.0 notation. You can access the others, that cover the main UML diagram types, from this introduction. Design patterns Design patterns – introduction</description>
@@ -60,10 +60,10 @@ This is the first of a set of video tutorials that introduce the UML 2.0 notatio
     
     <item>
       <title>Critical systems</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/critical/</link>
+      <link>https://software-engineering-book.com/videos/critical/</link>
       <pubDate>Sat, 23 May 2020 14:26:47 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/critical/</guid>
+      <guid>https://software-engineering-book.com/videos/critical/</guid>
       <description>These videos support the material in Chapter 10 in the 10th edition of Software Engineering. My videos are starred (*).
 An introduction to critical systems An introduction to critical systems
 In this video, I explain what is meant by a critical system and why these are important. Critical systems engineering
@@ -72,10 +72,10 @@ In this video, I explain why we need to use more rigorous software engineering 
     
     <item>
       <title>Reliability and safety</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/reliability/</link>
+      <link>https://software-engineering-book.com/videos/reliability/</link>
       <pubDate>Sat, 23 May 2020 14:27:05 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/reliability/</guid>
+      <guid>https://software-engineering-book.com/videos/reliability/</guid>
       <description>These videos support the material in Chapters 11 and 12 in the 10th edition of Software Engineering. My videos are starred (*).
 Software reliability and availability Availability and reliability (*)
 This video explains what availability and reliability means in critical systems. Airbus FCS – software and hardware redundancy (*)
@@ -84,10 +84,10 @@ In this video, I explain how software and hardware redundancy is used to achiev
     
     <item>
       <title>Security and resilience</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/security/</link>
+      <link>https://software-engineering-book.com/videos/security/</link>
       <pubDate>Sat, 23 May 2020 14:27:14 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/security/</guid>
+      <guid>https://software-engineering-book.com/videos/security/</guid>
       <description>These videos support the material in Chapters 13 and 14 in the 10th edition of Software Engineering. My videos are starred (*).
 System security System security (*)
 This video explains what system security is and its relationship with other dependability attributes.  Security is a sociotechnical issue (*)
@@ -96,10 +96,10 @@ This video explains why technical approaches are not enough to deal with the pro
     
     <item>
       <title>Software reuse</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/reuse/</link>
+      <link>https://software-engineering-book.com/videos/reuse/</link>
       <pubDate>Sat, 23 May 2020 14:27:19 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/reuse/</guid>
+      <guid>https://software-engineering-book.com/videos/reuse/</guid>
       <description>These videos support the material in Chapters 15, 16 and 18 in the 10th edition of Software Engineering. My videos are starred (*).
 Software reuse The reuse landscape (*)
 In this video, I introduce the wide range of ways in which software can be reused. Introduction to Web Application Frameworks
@@ -108,10 +108,10 @@ Introduces a number of web application frameworks although he doesn’t really s
     
     <item>
       <title>Systems engineering</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/systems/</link>
+      <link>https://software-engineering-book.com/videos/systems/</link>
       <pubDate>Sat, 23 May 2020 14:27:34 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/systems/</guid>
+      <guid>https://software-engineering-book.com/videos/systems/</guid>
       <description>These videos support the material in Chapters 19 to 21 in the 10th edition of Software Engineering. My videos are starred (*).
 Systems engineering Introducing sociotechnical systems (*)
 In this video, I introduce the idea of sociotechnical systems and explains the differences between sociotechnical and technical systems. Emergent properties of sociotechnical systems (*)
@@ -121,10 +121,10 @@ In this video, I discuss how the notions of success and failure are not absolut
     
     <item>
       <title>Software management</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/management/</link>
+      <link>https://software-engineering-book.com/videos/management/</link>
       <pubDate>Sat, 23 May 2020 14:27:41 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/management/</guid>
+      <guid>https://software-engineering-book.com/videos/management/</guid>
       <description>These videos support the material in Chapters 19, 20 and 21 in the 10th edition of Software Engineering. My videos are starred (*).
 Project management Why software project management is different?
 A video that explains why software project management differs from other types of project management. I don’t agree with everything she says but she is right that there are important differences. Risk management fundamentals

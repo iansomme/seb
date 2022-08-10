@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SE book on Software Engineering</title>
-    <link>https://software-engineering-bookhttps://software-engineering-book.com/tags/se-book/</link>
+    <link>https://software-engineering-book.com/tags/se-book/</link>
     <description>Recent content in SE book on Software Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 23 May 2020 14:27:34 +0100</lastBuildDate>
     
-	<atom:link href="https://software-engineering-bookhttps://software-engineering-book.com/tags/se-book/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://software-engineering-book.com/tags/se-book/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Security and resilience</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/security/</link>
+      <link>https://software-engineering-book.com/videos/security/</link>
       <pubDate>Sat, 23 May 2020 14:27:14 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/security/</guid>
+      <guid>https://software-engineering-book.com/videos/security/</guid>
       <description>These videos support the material in Chapters 13 and 14 in the 10th edition of Software Engineering. My videos are starred (*).
 System security System security (*)
 This video explains what system security is and its relationship with other dependability attributes.  Security is a sociotechnical issue (*)
@@ -25,10 +25,10 @@ This video explains why technical approaches are not enough to deal with the pro
     
     <item>
       <title>Software reuse</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/reuse/</link>
+      <link>https://software-engineering-book.com/videos/reuse/</link>
       <pubDate>Sat, 23 May 2020 14:27:19 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/reuse/</guid>
+      <guid>https://software-engineering-book.com/videos/reuse/</guid>
       <description>These videos support the material in Chapters 15, 16 and 18 in the 10th edition of Software Engineering. My videos are starred (*).
 Software reuse The reuse landscape (*)
 In this video, I introduce the wide range of ways in which software can be reused. Introduction to Web Application Frameworks
@@ -37,10 +37,10 @@ Introduces a number of web application frameworks although he doesn’t really s
     
     <item>
       <title>Systems engineering</title>
-      <link>https://software-engineering-bookhttps://software-engineering-book.com/videos/systems/</link>
+      <link>https://software-engineering-book.com/videos/systems/</link>
       <pubDate>Sat, 23 May 2020 14:27:34 +0100</pubDate>
       
-      <guid>https://software-engineering-bookhttps://software-engineering-book.com/videos/systems/</guid>
+      <guid>https://software-engineering-book.com/videos/systems/</guid>
       <description>These videos support the material in Chapters 19 to 21 in the 10th edition of Software Engineering. My videos are starred (*).
 Systems engineering Introducing sociotechnical systems (*)
 In this video, I introduce the idea of sociotechnical systems and explains the differences between sociotechnical and technical systems. Emergent properties of sociotechnical systems (*)
