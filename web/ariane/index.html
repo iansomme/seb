@@ -35,29 +35,13 @@
 <p>There were two inertial navigation computers which were diverse and so the system could cope with hardware failure. These ran in parallel during the launch so that a single computer failure would not lead to any loss of capability. However, the software installed on each of these computers was identical. Consequently, the overflow occurred at the same time on both the principal computer and its backup system.</p>
 <p>The validation tests for the reused software were based on Ariane 5 requirements. Because there were no requirements for the function that failed, no tests were developed. Consequently, the problem with the software was never discovered during pre-launch tests.</p>
 <p>The subsequent inquiry concluded that there was a failure to understand the importance of software redundancy (the Ariane 5 engineers mostly had a hardware background) and a failure in the verification and validation of the software. The launch simulation tests and c ode reviews were inadequate .</p>
-<p>I have put together more information on the Ariane 5 accident as a<a href="https://iansommerville.com/software-engineering-book/case-studies/ariane5"> case study</a>.</p>
+<p>I have put together more information on the Ariane 5 accident as a<a href="https://software-engineering-book.com/case-studies/ariane5"> case study</a>.</p>
 <p> </p>
 			</div>
 
 	</article>
-	<article id="post-316" class="post-316 page type-page status-publish hentry"><header class="entry-header"><h1 class="entry-title">
-				Ariane			</h1>
-			</header><div class="entry-content clearfix">
-		<p>The Ariane 5 launcher, built by the European Space Agency for satellite launches, exploded on its maiden flight. Its payload of research satellites were destroyed. The cause was the failure of the software in the rocket’s inertial navigation system.</p>
-<p>While developing the <a href="http://www.arianespace.com/news-image_library/ariane5.asp">Ariane 5 launcher</a>, the designers decided to reuse the inertial reference software that had performed successfully in the Ariane 4 launcher. The inertial reference software maintains the stability of the rocket. They decided to reuse this without change, although it included additional functionality that was not required in Ariane 5.</p>
-<p>In the first launch of Ariane 5, the inertial navigation software failed and the rocket could not be controlled. The cause of the problem was an unhandled exception when a conversion of a fixed-point number to a 16-bit integer resulted in a numeric overflow. This caused the run-time system to shut down the inertial reference system and launcher stability could not be maintained. Ground controllers instructed the launcher to self-destruct and the rocket and its payload were destroyed.</p>
-
-<p><a href="https://www.youtube.com/watch?v=kYUrqdUyEpI">Ariane 5 launch explosion video</a></p>
-
-<p>The fault occurred in code that was not required for Ariane 5 and which was not critical for navigation or control. This functionality had been moved to a ground-based system for Ariane 5. Because it was not critical control functionality, an exception handler was not included in the system.</p>
-<p>There were two inertial navigation computers which were diverse and so the system could cope with hardware failure. These ran in parallel during the launch so that a single computer failure would not lead to any loss of capability. However, the software installed on each of these computers was identical. Consequently, the overflow occurred at the same time on both the principal computer and its backup system.</p>
-<p>The validation tests for the reused software were based on Ariane 5 requirements. Because there were no requirements for the function that failed, no tests were developed. Consequently, the problem with the software was never discovered during pre-launch tests.</p>
-<p>The subsequent inquiry concluded that there was a failure to understand the importance of software redundancy (the Ariane 5 engineers mostly had a hardware background) and a failure in the verification and validation of the software. The launch simulation tests and c ode reviews were inadequate .</p>
-<p>I have put together more information on the Ariane 5 accident as a<a href="https://iansommerville.com/case-studies/ariane5"> case study</a>.</p>
-<p> </p>
-			</div>
-
-	</article>			<footer id="colophon" class="clearfix"><div class="footer-socket-wrapper clearfix">
+				
+	<footer id="colophon" class="clearfix"><div class="footer-socket-wrapper clearfix">
 				<div class="inner-wrap">
 					<div class="footer-socket-area">
 						<div class="copyright">Copyright © 2019&nbsp<a href="https://software-engineering-book.com/" title="Software Engineering 10th edition"><span>Software Engineering 10th edition</span></a>. </div>					</div>
